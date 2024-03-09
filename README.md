@@ -10,3 +10,5 @@ encoding_housing_data.xlsx is my project_3 final data exel sheet.
 
 Exploratory Data Analysis (EDA) for Real Estate Pricing.ppt is my power_point.ppt file
 
+|S.No| |Topic| |Sub_Topic|
+|-| |-| |-|
