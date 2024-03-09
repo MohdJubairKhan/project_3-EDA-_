@@ -30,7 +30,12 @@ Exploratory Data Analysis (EDA) for Real Estate Pricing.ppt is my power_point.pp
 |15|Feature Engineering and Size Impact|Correlation Analysis|
 |16|Feature Engineering and Size Impact|Model Building|
 |17|Market Trends and Historical Pricing|Plotting historical prices|
-|18|Market Trends and Historical Pricing||Plot the decomposition|
+|18|Market Trends and Historical Pricing|decomposition|
 |19|Customer Preferences and Amenities|Analyze Impact|
 |20|Customer Preferences and Amenities|Customer Feedback|
 |21|Customer Preferences and Amenities|Visualize the sentiment analysis results|
+|-|-|-|
+
+|Name|Git_hub|git_hub_link|
+|-|-|-|
+|Mohd Jubair khan||git_hub_link|
