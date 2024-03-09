@@ -36,6 +36,6 @@ Exploratory Data Analysis (EDA) for Real Estate Pricing.ppt is my power_point.pp
 |21|Customer Preferences and Amenities|Visualize the sentiment analysis results|
 |-|-|-|
 
-|Name|Git_hub|git_hub_link|
+|Name|Git_hub_Acc_Name|git_hub_link|
 |-|-|-|
-|Mohd Jubair khan||git_hub_link|
+|Mohd Jubair khan|Zubair0786786|[git_hub_link](https://github.com/MohdJubairKhan/project_3-EDA-_)https://github.com/MohdJubairKhan/project_3-EDA-_|
