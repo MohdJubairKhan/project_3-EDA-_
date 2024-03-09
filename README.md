@@ -38,4 +38,4 @@ Exploratory Data Analysis (EDA) for Real Estate Pricing.ppt is my power_point.pp
 
 |Name|Git_hub_Acc_Name|git_hub_link|
 |-|-|-|
-|Mohd Jubair khan|Zubair0786786|[git_hub_link](https://github.com/MohdJubairKhan/project_3-EDA-_)https://github.com/MohdJubairKhan/project_3-EDA-_|
+|Mohd Jubair khan|Zubair0786786|[git_hub_link](https://github.com/MohdJubairKhan/project_3-EDA-_)|
